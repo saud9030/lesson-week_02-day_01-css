@@ -1,0 +1,47 @@
+body{
+    background-color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-size: 34px;
+    margin-top: 0;
+}
+.head{
+    text-align: center;
+    font-size: 20px;
+    border-top: 5px solid black;
+    padding-top: 20px;
+    
+}
+div{
+    margin: 0px 40px;
+    border-top : 2px solid black;
+    padding-top: 10px;
+}
+.profile{
+    float: right;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+.bottom{
+    text-align: center;
+    clear: both;
+    font-size: 18px;
+    margin: 0px 40px;
+    padding-top: 20px;
+    border-top: 2px solid black;
+}
+a{
+    color: black;
+}
+footer{
+    padding-bottom: 30px;
+    border-bottom: 5px solid black;
+}
+li{
+    list-style: square;
+    margin-top: 20px;
+}
